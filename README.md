@@ -1,7 +1,7 @@
 ### Hi everyone, Erik aqui!
 
-- 💻 Desenvolvedor Full Stack pelo programa Desenvolve 2022, Grupo Boticário - Alura
-- 💻 Cursando de Análise e Desenvolvimento de Sistemas - UniFBV
+- 💻 Desenvolvedor FrontEnd Júnior
+- 💻 Desenvolvendo pequenos projetos com bases nos estudos da Alura
 
 <div align="center">
   <a href="https://github.com/erikroque">
